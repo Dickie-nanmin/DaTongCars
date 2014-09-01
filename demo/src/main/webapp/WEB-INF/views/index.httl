@@ -1,0 +1,8 @@
+${include("/common/header.httl")}
+<body>
+	===
+	 123 
+    ===
+	${include("/common/footer.httl")}
+</body>
+</html>
